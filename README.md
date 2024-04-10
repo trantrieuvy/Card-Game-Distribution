@@ -30,15 +30,25 @@ The game is simulated 100,000 times to analyze the distribution of the number of
 The result of one game is similar to the following:
 
 Player 1 (discard pile: 0 cards, draw pile: 20 cards): 4
+
 Player 2 (discard pile: 0 cards, draw pile: 20 cards): 6
+
 Player 2 wins this round
+
 Player 1 (discard pile: 0 cards, draw pile: 19 cards): 8
+
 Player 2 (discard pile: 2 cards, draw pile: 19 cards): 8
+
 No winner in this round
+
 ...
+
 Player 1 (discard pile: 30 cards, draw pile: 9 cards): 6
+
 Player 2 (discard pile: 0 cards, draw pile: 1 cards): 2
+
 Player 1 wins this round
+
 Player 1 wins the game!
 
 ## Result
