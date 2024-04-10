@@ -23,7 +23,8 @@ The game is simulated 100,000 times to analyze the distribution of the number of
 3. Install dependencies
   ```shell
   pip install -r requirements.txt
-
+  ```
+  
 ## Experiments
 
 The result of one game is similar to the following:
