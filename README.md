@@ -26,6 +26,7 @@ The game is simulated 100,000 times to analyze the distribution of the number of
   ```
   
 ## Experiments
+The codes to stimulate the game is found in [codes](/codes).
 
 The result of one game is similar to the following:
 
