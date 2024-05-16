@@ -14,7 +14,7 @@ The game is simulated 100,000 times to analyze the distribution of the number of
 
 1. Create virtual Python environment
   ```shell
-  conda create -name Card_Game python=3.11
+  conda create -n Card_Game python=3.11
   ```
 2. Activate environment
   ```shell
